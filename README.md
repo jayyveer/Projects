@@ -45,3 +45,6 @@ You can view my resume [here](https://github.com/jayyveer/resume/raw/main/Jayvee
 ### Next-Js 14 with MongoDB
 * [User Management](https://github.com/jayyveer/next-user-management) - Apr, 2024
 * [AnonHub](https://github.com/jayyveer/AnonHub) - Apr, 2024
+
+### Next-Js 14 with Firebase
+* [Eventsify](https://github.com/jayyveer/Eventsify) - Apr, 2024 
