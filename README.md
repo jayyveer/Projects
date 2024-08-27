@@ -47,4 +47,8 @@ You can view my resume [here](https://github.com/jayyveer/resume/raw/main/Jayvee
 * [AnonHub](https://github.com/jayyveer/AnonHub) - Apr, 2024
 
 ### Next-Js 14 with Firebase
-* [Eventsify](https://github.com/jayyveer/Eventsify) - Apr, 2024 
+* [Eventsify](https://github.com/jayyveer/Eventsify) - Apr, 2024
+
+### Graphql Crud
+* [CRUD](https://github.com/jayyveer/graphql-crud) - Aug, 2024
+
